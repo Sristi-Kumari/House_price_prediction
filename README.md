@@ -1,1 +1,1 @@
-# House_price_prediction
+Created a machine learning project on house price prediction. The dataset used here have been taken from kaggle. In first we did the data preprocessing methods. Then the features of the dataset contains some categorical values which is encoded using OneHotEncoder. Then the whole dataset is converted to training and test set. Then prediction model is applied and accuracy is calculated using mean squared error and r square.
